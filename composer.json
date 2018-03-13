@@ -1,0 +1,12 @@
+{
+    "name": "pkduy1209/sample",
+    "description": "Create overview sample can intergrate other project",
+    "authors": [
+        {
+            "name": "Sam ple",
+            "email": "pkduy1209@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
